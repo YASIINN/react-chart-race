@@ -1,2 +1,2 @@
 # react-chart-race
-   [Demo](https://yasiinn.github.io/react-chart-race/).
+   [Demo](https://yasinfmd.github.io/react-chart-race/).
